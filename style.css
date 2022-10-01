@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+h4{
+    font-style: italic;
+    color: red;
+}
+.test{
+    color: brown;
+}
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
+i{
+  text-decoration: underline;  
+}
+b{
+    text-decoration: line-through;
+}
+h3{
+    color: red;
+    font-style: italic;
+}  
+.test2{
+    letter-spacing: 6px;
+    color: brown;
+}
+p{
+    color: brown;
+}
+a{ background-color: yellow;
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
+.hi{
+    text-decoration: none;
+}
